@@ -1,1 +1,10 @@
-export default () => <div>This is hello.js</div>;
+import StyledComponents from "../components/StyledComponents";
+
+export default () => {
+  return (
+    <div>
+      This is hello.js
+      <StyledComponents />
+    </div>
+  );
+};

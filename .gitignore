@@ -8,3 +8,4 @@ coverage
 public/app.js
 public/app.js.map
 config.yml
+.next/
