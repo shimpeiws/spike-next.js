@@ -5,6 +5,8 @@ export default () => {
     <div>
       This is hello.js
       <StyledComponents />
+      Use static images
+      <img src="/static/gopher.png" />
     </div>
   );
 };

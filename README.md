@@ -5,8 +5,8 @@ https://github.com/zeit/next.js/
 ## Features
 
 - [x] Hello World
-- [ ] Use styled-components
-- [ ] static resources (user image)
+- [x] Use styled-components
+- [x] static resources (use images)
 - [ ] Fetch initial data
 - [ ] Router
 - [ ] custome routing
