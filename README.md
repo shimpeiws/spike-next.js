@@ -4,7 +4,7 @@ https://github.com/zeit/next.js/
 
 ## Features
 
-- [ ] Hello World
+- [x] Hello World
 - [ ] Use styled-components
 - [ ] static resources (user image)
 - [ ] Fetch initial data
