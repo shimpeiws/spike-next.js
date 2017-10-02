@@ -1,0 +1,19 @@
+{
+  "name": "spike-next.js",
+  "version": "1.0.0",
+  "description": "spike next.js",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/shimpeiws/spike-next.js.git",
+  "author": "shimpeiws <shimpeiws@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^3.2.2",
+    "react": "15",
+    "react-dom": "15"
+  }
+}
