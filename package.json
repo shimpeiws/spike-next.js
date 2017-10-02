@@ -12,6 +12,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.16.2",
     "next": "^3.2.2",
     "react": "15",
     "react-dom": "15",

@@ -7,9 +7,10 @@ https://github.com/zeit/next.js/
 - [x] Hello World
 - [x] Use styled-components
 - [x] static resources (use images)
-- [ ] Fetch initial data
-- [ ] Router
+- [x] Fetch initial data
+- [ ] Router(on click routing)
 - [ ] custome routing
+- [ ] routing details(like /items/:id)
 - [ ] babel config
 
 ## setup
