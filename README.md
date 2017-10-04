@@ -8,7 +8,7 @@ https://github.com/zeit/next.js/
 - [x] Use styled-components
 - [x] static resources (use images)
 - [x] Fetch initial data
-- [ ] connect Redux (ref: https://github.com/zeit/next.js/tree/master/examples/with-redux)
+- [x] connect Redux (ref: https://github.com/zeit/next.js/tree/master/examples/with-redux)
 - [ ] Router(on click routing)
 - [ ] custome routing
 - [ ] routing details(like /items/:id)
