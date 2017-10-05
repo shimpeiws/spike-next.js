@@ -1,5 +1,6 @@
 import React from "react";
 import axios from "axios";
+import Link from "next/link";
 
 export default class extends React.Component {
   static async getInitialProps({ req }) {
@@ -13,6 +14,9 @@ export default class extends React.Component {
     return (
       <div>
         Hello World {this.props.uuid}
+        <Link href="/hello">
+          <a>here</a>
+        </Link>
       </div>
     );
   }
