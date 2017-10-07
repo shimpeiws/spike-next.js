@@ -2,6 +2,11 @@ import React from "react";
 import axios from "axios";
 import Link from "next/link";
 
+function annotation(target) {
+  target.annotated = true;
+}
+
+@annotation
 export default class extends React.Component {
   static async getInitialProps({ req }) {
     const res = await axios.get("https://httpbin.org/uuid");
