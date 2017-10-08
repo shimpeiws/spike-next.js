@@ -11,9 +11,8 @@ https://github.com/zeit/next.js/
 - [x] connect Redux (ref: https://github.com/zeit/next.js/tree/master/examples/with-redux)
 - [x] Router(on click routing)
 - [x] routing details(like /items/:id)
-- [ ] 404 page
-- [ ] babel config
-- [ ] custome routing -> not use `./pages`
+- [x] 404 page
+- [x] babel config
 
 ## setup
 
